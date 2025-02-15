@@ -1,0 +1,31 @@
+Emails:
+e.mugisha4@alustudent.com
+jane.doe@example.com
+admin@mycompany.org
+
+URLs:
+https://www.example.com
+http://sub.example.co.uk/page
+https://www.google.com/
+
+Phones:
+(123) 456-7890
+987-654-3210
+555.555.5555
+
+Credit Cards:
+1234 5678 9012 3456
+4321-8765-2109-6543
+
+Times:
+14:30
+2:30 PM
+
+Hashtags:
+#webdevelopment
+#RegexRocks
+
+Currency:
+$19.99
+$2,345.00
+$500.00
